@@ -1,5 +1,7 @@
 # C언어 강의
 
+![maxresdefault](https://user-images.githubusercontent.com/35438497/163364896-fd4a8c02-c3b6-4cc1-b2d5-e8b5b4d76e1c.jpg)
+
 **[00_main.c]**
 
 ```c
