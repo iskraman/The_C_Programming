@@ -2,6 +2,8 @@
 
 ![maxresdefault](https://user-images.githubusercontent.com/35438497/163364896-fd4a8c02-c3b6-4cc1-b2d5-e8b5b4d76e1c.jpg)
 
+**유튜브 강의 주소** : https://youtu.be/mEEVrv7rvFY
+
 **[00_main.c]**
 
 ```c
@@ -1208,4 +1210,4 @@ int main() {
 
 ---
 
-[유튜브 채널 : 시골사는 개발자]
+[ 시골사는 개발자 : https://youtu.be/mEEVrv7rvFY ]
